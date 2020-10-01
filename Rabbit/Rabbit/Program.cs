@@ -18,7 +18,7 @@ namespace Rabbit
             Console.WriteLine(myRabbit.Owner.First);
             Console.WriteLine(myRabbit.Owner.Last);
             Console.WriteLine(myRabbit.Owner.OwnerCode);
-           // Console.WriteLine(myRabbit.Owner.OwnerAddress);
+            Console.WriteLine(myRabbit.Owner.OwnerAddress);
            
 
         }

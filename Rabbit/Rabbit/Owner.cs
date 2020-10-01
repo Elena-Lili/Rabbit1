@@ -35,7 +35,7 @@ namespace Rabbit
         }
         public string OwnerAddress
         {
-            get { return OwnerAddress; }
+            get { return ownerAddress; }
         }
 
     }
